@@ -18,3 +18,5 @@ In this part we define a 5 by 5 kernal using np array. Then dilation and erosion
 ![GitHub Logo](test_image.png)
 
 **Output image**
+
+![Github Logo](output/morphological_output.png)
